@@ -1,0 +1,49 @@
+{
+  "name": "offto",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/cache": "latest",
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "latest",
+    "@mui/material": "^5.8.6",
+    "@reduxjs/toolkit": "^1.9.5",
+    "@types/react-date-range": "^1.4.4",
+    "accept-language": "^3.0.18",
+    "dayjs": "^1.11.9",
+    "embla-carousel-react": "^8.0.0-rc12",
+    "i18next": "^23.4.5",
+    "i18next-browser-languagedetector": "^7.1.0",
+    "i18next-resources-to-backend": "^1.1.4",
+    "mui-tel-input": "^4.0.0",
+    "next": "13.x",
+    "next-i18next": "^14.0.0",
+    "react": "^17.0.0 || ^18.0.0",
+    "react-date-range": "^1.4.0",
+    "react-dom": "^17.0.0 || ^18.0.0",
+    "react-i18next": "^13.2.0",
+    "react-redux": "^8.1.2",
+    "styled-components": "^6.0.7"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "typescript": "latest"
+  },
+  "peerDependencies": {
+    "@mui/material": "^5.8.6",
+    "@mui/system": "^5.8.0",
+    "react": "^17.0.0 || ^18.0.0",
+    "react-dom": "^17.0.0 || ^18.0.0"
+  }
+}
