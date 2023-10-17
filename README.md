@@ -1,4 +1,4 @@
-# OFFTO
+# Travel Packages UI
 ## Start Versioning V 1.0
 
 Install dependencies and run:
